@@ -1,4 +1,4 @@
-##Python
+#Python
 ```Python 
 "això és una cadena"
 "això també es una 'cadena' tot i tenir cometes simples dins!"
