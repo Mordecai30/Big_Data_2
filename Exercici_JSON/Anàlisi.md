@@ -4,7 +4,7 @@ Twitter es una de les xarxes socials on més es solen potenciar els debats al vo
 
 Al extreure les dades i començar a comparar les diferències claus entre les estadístiques sorgides de cada candidat hi havia un caus que sobtava molt per la clara diferència que presentava respecte els seus oponents polítics: Ada Colau. Per una banda és evident que al ser una figura mediàtica captarà més atenció i de primeres els promitjos i càlculs relacionats amb les interaccions del seu contingut serien més elevades. Però tot i així a l'analitzar les interaccions d'aquelles piulades en les que se l'esmenta veiem un número molt elevat i concentrat d'usuaris, és deixa entreveure una intencionalitat darrere aquesta actitud. 
 
-![[Captura de Pantalla 2023-05-03 a las 16.52.31.png]]
+<img width="1095" alt="Captura de Pantalla 2023-05-03 a las 16 52 31" src="https://user-images.githubusercontent.com/89282167/235958996-33d007b8-c546-4381-bdbb-03cb2588e71a.png">
 
 En aquest primer gràfic comparatiu de l'esquerra veiem la suma de likes i repiulades en els que s'esmenta a Ada Colau i aquells en el que no. Apart dels dos clars pics que podem veure és una constant veure aparèixer pics més baixos arreu del gràfic en ambdós tipus d'interacció. En els gràfics que trobem a la dreta també podem veure la quantitat de likes que rep de promig Ada Colau quan és esmentada respecte la candidata Anna Grau. Tot i que en aquest gràfic només aparegui Anna Grau els resultats son similars en el que respecta a la gran distància amb Ada Colau. 
 
